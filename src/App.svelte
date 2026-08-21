@@ -8,13 +8,14 @@
   // Replace these placeholders with your actual Firebase config.
   // ================================================================
   const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    databaseURL: "YOUR_DATABASE_URL",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyCnKsd9xDT_l4SHTiSHx-FNEaLttt0m9jM",
+    authDomain: "the-cult-ed449.firebaseapp.com",
+    databaseURL: "https://the-cult-ed449-default-rtdb.firebaseio.com",
+    projectId: "the-cult-ed449",
+    storageBucket: "the-cult-ed449.firebasestorage.app",
+    messagingSenderId: "110707104386",
+    appId: "1:110707104386:web:3ba5da4441c986a2a7b29b",
+    measurementId: "G-TJNGXB5RMB"
   };
 
   const isConfigured = firebaseConfig.databaseURL && 
