@@ -23,7 +23,7 @@
                        !firebaseConfig.databaseURL.includes("YOUR_");
 
   const TIMES = {
-    open:            9*60,
+    open:            8*60+30,
     tiffinEnds:      11*60+45,
     tiffinCutoff:    12*60+10,
     close:           18*60
@@ -74,7 +74,7 @@
   let newLunchName = $state("");
 
   const PHASE_LABEL = {
-    before_open:  'Opens 9:00 AM',
+    before_open:  'Opens 8:30 AM',
     tiffin:       'Tiffin Time',
     tiffin_lunch: 'Lunch',
     lunch:        'Lunch',
