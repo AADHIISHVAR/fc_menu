@@ -283,7 +283,7 @@
     <div id="menuView">
       <div class="top-bar">
         <div class="brand">
-          <div class="name">Campus Food Court</div>
+          <div class="name">KIOT Campus Food Court</div>
           <div class="sub">Today's menu</div>
         </div>
         <div class="status">
